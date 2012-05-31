@@ -2,7 +2,7 @@
 
 namespace Room13\WizardBundle\Wizard;
 
-use Symfony\Component\HttpFoundation\Session;
+use Symfony\Component\HttpFoundation\Session\Session;
 use Symfony\Component\Form\FormFactory;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\Routing\Router;
